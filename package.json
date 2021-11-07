@@ -1,0 +1,40 @@
+{
+    "name": "sher-dark-theme",
+    "displayName": "SHER Dark Theme",
+    "description": "Rasululloh [S.A.V] Ummati !",
+    "version": "7.7.7",
+    "publisher": "SHER",
+    "icon": "logo.png",
+    "keywords": [
+        "Alhamdulillah",
+        "Musulman",
+        "Musulman Programmers",
+        "Genuis Group",
+        "SHER Dark Theme",
+        "SHER",
+        "SH3R",
+        "Dark Theme",
+        "Hacker Theme",
+        "Hacker",
+        "Hack3r Th3m3",
+        "Dark",
+        "kpacav4ik2002",
+        "kpacav4ik",
+        "W3R"
+    ],
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SHER Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SHER Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
