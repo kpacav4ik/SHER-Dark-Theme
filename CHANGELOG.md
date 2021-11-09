@@ -27,7 +27,7 @@ SHER: 🤲 Only 👉 YOU: "ALLAH" always with me ! Thank you Allah ! Ya Rabbim A
 root@SH3R:~# Install [SHER Dark Theme] File => Preferences => Color Theme => SHER Dark Theme!
 
 ------------------------------------------------------------------------------------------------
-*                        Hello World ! We are MUSULMAN Programmers ! ☝                         *
+*                         Hello World ! We are MUSULMAN Programmers ! ☝                        *
 ------------------------------------------------------------------------------------------------
 ```
 ## SHER Dark Theme Screenshots
@@ -39,9 +39,9 @@ root@SH3R:~# Install [SHER Dark Theme] File => Preferences => Color Theme => SHE
 
 ```shell
 ------------------------------------------------------------------------------------------------
-*                                     Project Informations 📌                                  *
+*                                    Project Informations 📌                                   *
 ------------------------------------------------------------------------------------------------
-| Name 💻            | Version 🔨  | Updated (date): 🕕 | Uploaded (date) 🕕 | Author 😎      |         
+| Name 💻            | Version 🔨  | Updated (date): 🕕 | Uploaded (date) 🕕 | Author 😎      |
 ------------------------------------------------------------------------------------------------
 | SHER Dark Theme 💻 | @v7.7.7 🔨  | 22.10.2021 🕕      | 22.10.2021 🕕      | SHER 😎        |
 ------------------------------------------------------------------------------------------------
