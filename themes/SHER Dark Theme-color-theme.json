@@ -617,7 +617,7 @@
 			"name": "Template Definition",
 			"scope": [
 				"punctuation.definition.template-expression",
-				"punctuation.section.embedded.coffee"
+				"punctuation.section.embedded.coffee",
 			],
 			"settings": {
 				"foreground": "#D08442"
@@ -926,7 +926,9 @@
 			  "meta.brace.round.js",
 			  "meta.function",
 			  "meta.block.js",
-			  "punctuation.accessor"
+			  "punctuation.accessor",
+			  "punctuation.definition.list.begin.python",
+			  "punctuation.definition.list.end.python"
 			],
 			"settings": {
 			  "foreground": "#b4b4b4",
@@ -954,9 +956,16 @@
 			}
 		},
 		{
-			"scope": "source.css-ignored-vscode",
+			"scope": ["entity.name.function.decorator", "meta.function.decorator"],
 			"settings": {
-				"foreground": "#9AA83A",
+				"foreground": "#D0B344",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": ["constant.character.format.placeholder.other.python"],
+			"settings": {
+				"foreground": "#D08442",
 				"fontStyle": ""
 			}
 		}
